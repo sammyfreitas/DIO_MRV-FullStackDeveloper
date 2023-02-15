@@ -1,16 +1,14 @@
 # DIO_MRV_FULLSTACKDEV
 https://web.dio.me/track/mrv-fullstack-developer
 
-MRV Fullstack Developer
- Intermediário
-肋 107 hrs
+<div align="center"><img height="200em" src="https://hermes.digitalinnovation.one/tracks/5ff98a20-9788-4727-bf44-996f0e4844a2.png"/></div>
+
+
+     MRV Fullstack Developer *   Intermediário * 肋 107 hrs
 
 Olá Dev, o Bootcamp MRV Fullstack Developer está pronto especialmente para você! Nele você aprenderá os conceitos de desenvolvimento de software para criar soluções digitais, para atuar em projetos de desenvolvimento web e de componentes da interface
 
-36 cursos
-4 desafios de projeto
-1 desafio de código
-3 lives
+     36 cursos * 4 desafios de projeto * 1 desafio de código * 3 lives
 
 ## CONTEÚDO (44 atividades)
 * Boas Vindas ao Bootcamp MRV Fullstack Developer 
